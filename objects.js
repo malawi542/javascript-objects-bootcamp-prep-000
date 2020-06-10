@@ -1,3 +1,5 @@
 var playlist = {Nas: 'Nas is like',};
 
-updatePlaylist(playlist, artistName, songTitle)
+function updatePlaylist(playlist, artistName, songTitle) {
+  return 
+}
