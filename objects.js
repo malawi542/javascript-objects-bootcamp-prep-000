@@ -1,1 +1,1 @@
-var playlist = {Nas };
+var playlist = {Nas: 'Nas is like',};
